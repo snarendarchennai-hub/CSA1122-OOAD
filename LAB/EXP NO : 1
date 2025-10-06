@@ -27,3 +27,49 @@ This software is designed for the verification of the passport details of the ap
 the central computer. The details regarding the passport will be provided to the central computer
 and the computer will verify the details of applicant and provide approval to the office. Then the
 passport will issue from the office to the applicant.
+PROGRAM CODING:
+APPLICANT:
+Public class Applicant
+{
+Public Integer firstname;
+Public Integer lastname;
+Public void passport()
+{
+}
+}
+PASSPORT APPLICATION SYSTEM:
+Public class passport application system
+{
+Public Integer details;
+Public Integer proof;
+Public class Applicant
+{
+Public Integer firstname;
+Public Integer lastname;
+Public void passport()
+{
+}
+Public void verification()
+{
+}
+
+REGISTER NO:
+
+OOAD LAB
+Public void issue()
+{
+}
+Public void cancel()
+{
+}
+}
+
+OFFICER:
+Public class officer
+{
+Public Integer form;
+Public Integer responsible;
+Public void Database()
+{
+}
+}
